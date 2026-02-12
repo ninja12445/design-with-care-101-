@@ -61,3 +61,6 @@ Love
 A chatbot must not present itself as a friend to a child.
 
 Principle: A chatbot is a tool, not a companion, for children.
+
+Act how humans wish they acted with full context
+
